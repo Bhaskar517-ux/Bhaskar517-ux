@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Vue.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Bhaskar517-ux](https://github.com/Bhaskar517-ux)
-
 - 💬 Ask me about **react, angular**
 
 - 📫 How to reach me **bhaskarchoudhary89@gmail.com**
