@@ -34,7 +34,7 @@
 <p><a href="https://ko-fi.com/Bhaskar517-ux"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Bhaskar517-ux" /></a></p><br><br>
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaskar517-ux&show_icons=true&locale=en&layout=compact" height="50" width="210" alt="bhaskar517-ux" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaskar517-ux&show_icons=true&locale=en&layout=compact" alt="bhaskar517-ux" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaskar517-ux&show_icons=true&locale=en" alt="bhaskar517-ux" /></p>
 
