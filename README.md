@@ -1,7 +1,5 @@
-<div style="background-image: url('https://www.canva.com/design/DAGZ891L2Jo/NBqjLqBHc8B-xPVqdEOaFw/view?utm_content=DAGZ891L2Jo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4eb175135c'); background-size: cover; background-position: center; padding: 20px; border-radius: 10px;">
-
-<h1 align="center" style="color: white;">Hi 👋, I'm Bhaskar Choudhary</h1>
-<h3 align="center" style="color: white;">A passionate Fullstack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Bhaskar Choudhary</h1>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bhaskar517-ux&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskar517-ux" />
@@ -27,9 +25,11 @@
 
 - 📫 How to reach me **bhaskarchoudhary89@gmail.com**
 
+- 📞 Contact Number: **6206962838**
+
 - ⚡ Fun fact **I somehow have a cool head when fixing errors**
 
-<h3 align="left" style="color: white;">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/bhaskar03471695" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhaskar03471695" height="30" width="40" />
@@ -48,7 +48,7 @@
   </a>
 </p>
 
-<h3 align="left" style="color: white;">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
@@ -91,9 +91,6 @@
   </a>
 </p>
 
-<p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaskar517-ux&show_icons=true&locale=en&layout=compact" alt="bhaskar517-ux" />
-</p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaskar517-ux&show_icons=true&locale=en&layout=compact" alt="bhaskar517-ux" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaskar517-ux&show_icons=true&locale=en" alt="bhaskar517-ux" /></p>
-</div>
